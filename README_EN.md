@@ -1,4 +1,4 @@
-> 🇧🇷 [Portuguese version](/)
+> 🇧🇷 [Portuguese version]({{ site.baseurl }}/)
 
 # 👋 Bruno Bogochvol — Product Owner & Software Engineer
 
@@ -20,19 +20,19 @@ I have multisector experience—**ESG, GovTech, Education, Healthcare, Fintech, 
 
 ## ⚙️ Stack & Practices
 
-- **Tech:** Node.js (NestJS) · Angular/Ionic · Docker · GitHub Actions · MongoDB/MySQL · Azure
-- **Product:** PRDs · Roadmaps · Discovery · UX Flows · BPMN · Backlog Management (Jira, Projects v2)
+- **Tech:** Node.js (NestJS) · Angular/Ionic · Docker · GitHub Actions · MongoDB/MySQL · Azure  
+- **Product:** PRDs · Roadmaps · Discovery · UX Flows · BPMN · Backlog Management (Jira, Projects v2)  
 - **Practices:** Scrum/Kanban · BDD/TDD · CI/CD · Design Thinking · OKRs
 
 ---
 
 ## 💼 Product Cases
 
-| Project                 | Sector                    | Role           | Stack / Artifacts                          | Case                                               |
-| ----------------------- | ------------------------- | -------------- | ------------------------------------------ | -------------------------------------------------- |
-| **Thinksus ESG/ODS**    | Sustainability            | PO & Architect | PRD · BDD · UX Dashboard                   | [View case](./cases/thinksus-esg/README_EN.md)     |
-| **Veiculando**          | Mobility · Infrastructure | PO & DevOps    | Node/NestJS · GitHub Actions · Projects v2 | [View case](./cases/veiculando/README_EN.md)       |
-| **Singular Orçamentos** | SaaS · Finance            | PO & Engineer  | REST API · Angular · MongoDB               | [View case](./cases/singular-orcamentos/README.md) |
+| Project | Sector | Role | Stack / Artifacts | Case |
+|----------|--------|--------|------------------|------|
+| **Thinksus ESG/ODS** | Sustainability | PO & Architect | PRD · BDD · UX Dashboard | [View case]({{ site.baseurl }}/cases/thinksus-esg/README_EN.md) |
+| **Veiculando** | Mobility · Infrastructure | PO & DevOps | Node/NestJS · GitHub Actions · Projects v2 | [View case]({{ site.baseurl }}/cases/veiculando/README_EN.md) |
+| **Singular Orçamentos** | SaaS · Finance | PO & Engineer | REST API · Angular · MongoDB | [View case]({{ site.baseurl }}/cases/singular-orcamentos/README.md) |
 
 ---
 
@@ -47,54 +47,46 @@ The work involved coordinating cross-functional teams, modeling flows (BPMN), do
 ---
 
 ### 🏠 MCMV / IDB — Housing Platform
-
 **Sector:** Housing · IDB Financing  
 **Role:** Product Owner & Software Architect  
-**Highlights:**
-
-- Agile discovery and backlog with government stakeholders.
-- BPMN modeling and BDD criteria for onboarding and validation flows.
+**Highlights:**  
+- Agile discovery and backlog with government stakeholders.  
+- BPMN modeling and BDD criteria for onboarding and validation flows.  
 - Alpha release that reduced QA rework and clarified the user journey.
 
 ---
 
 ### 🎓 Educafro Portal — Scholarships and Digital Onboarding Platform
-
 **Sector:** Education · Social Inclusion  
 **Role:** Product Owner  
-**Highlights:**
-
-- Value-driven roadmap definition.
-- Prototyping (Figma) and documented acceptance criteria.
+**Highlights:**  
+- Value-driven roadmap definition.  
+- Prototyping (Figma) and documented acceptance criteria.  
 - Streamlined onboarding and improved content governance.
 
 ---
 
 ### 🌎 SENAI/MS — Carbon Inventory & Credits Marketplace
-
 **Sector:** ESG · Industry · Sustainability  
 **Role:** Product Owner & Software Architect  
-**Highlights:**
-
-- Domain modeling and REST integrations.
-- BDD criteria definition and automated validation pipeline.
+**Highlights:**  
+- Domain modeling and REST integrations.  
+- BDD criteria definition and automated validation pipeline.  
 - Technical foundation for audit trails and automation tracks.
 
 ---
 
 ### ⚙️ ERP Saúde · Rurágil · UNIE · ArqDigital
-
 **Sector:** SaaS · Fintech · Events · Document Management  
 **Role:** PO & Software Architect  
-**Highlights:**
-
-- Technical and business requirements modeling.
-- Integrations across financial, user, and document modules.
+**Highlights:**  
+- Technical and business requirements modeling.  
+- Integrations across financial, user, and document modules.  
 - Quality gates and releases focused on usability.
 
 ---
 
-📈 _These projects reinforce my work as a technical PO on complex products, connecting strategy, architecture, and value delivery._
+📈 *These projects reinforce my work as a technical PO on complex products, connecting strategy, architecture, and value delivery.*
 
 ---
 
@@ -102,9 +94,9 @@ The work involved coordinating cross-functional teams, modeling flows (BPMN), do
 
 > Models and artifacts I rely on daily as a technical PO.
 
-- [📝 PRD Template](./docs/template-PRD.md)
-- [🧪 BDD Template](./docs/template-BDD.md)
-- [🗺️ Roadmap Template](./docs/template-roadmap.md)
+- [📝 PRD Template](./docs/template-PRD.md)  
+- [🧪 BDD Template](./docs/template-BDD.md)  
+- [🗺️ Roadmap Template](./docs/template-roadmap.md)  
 - [📊 BPMN Example](./docs/template-BPMN.png)
 
 ---
@@ -116,4 +108,5 @@ Open to opportunities in **technical product management, software architecture, 
 
 ---
 
-⭐️ _This repository is my public product and engineering portfolio._
+⭐️ *This repository is my public product and engineering portfolio.*
+
