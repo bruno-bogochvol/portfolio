@@ -94,10 +94,10 @@ Os projetos envolveram coordenação de times multifuncionais, modelagem de flux
 
 > Modelos e artefatos que uso no dia a dia como PO técnico.
 
-- [📝 Template de PRD](./docs/template-PRD.md)  
-- [🧪 Template de BDD](./docs/template-BDD.md)  
-- [🗺️ Template de Roadmap](./docs/template-roadmap.md)  
-- [📊 Exemplo de BPMN](./docs/template-BPMN.png)
+- [📝 Template de PRD]({{ site.baseurl }}/docs/template-PRD.md)  
+- [🧪 Template de BDD]({{ site.baseurl }}/docs/template-BDD.md)  
+- [🗺️ Template de Roadmap]({{ site.baseurl }}/docs/template-roadmap.md)  
+- [📊 Exemplo de BPMN]({{ site.baseurl }}/docs/template-BPMN.png)
 
 ---
 

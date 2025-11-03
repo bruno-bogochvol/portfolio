@@ -7,5 +7,5 @@ title: "Portfolio — EN"
   <a href="{{ site.baseurl }}/" title="Versão em português">🇧🇷 Português</a>
 </p>
 
-{% include_relative ../README_EN.md %}
+{% include_relative README_EN.md %}
 
