@@ -2,6 +2,5 @@
 title: "Bruno Bogochvol — Portfolio"
 description: "Product Owner & Software Engineer"
 theme: jekyll-theme-cayman
-# Se este repo NÃO for username.github.io, defina baseurl, por exemplo:
-# baseurl: "/portfolio"
+baseurl: "/portfolio"
 ---
