@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🎓 Educafro — Portal do Bolsista"
+---
+
 # 🎓 Educafro — Portal do Bolsista
 
 **Papel:** Product Owner  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Plataforma que reúne instituições de ensino em um mapa interativo de bolsas de estudo e atua como um canal seguro para denúncias de discriminação, promovendo inclusão e suporte.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Mapa+de+Bolsas" alt="Mapa de Bolsas"> <br> Mapa de Bolsas | <img width="100%" src="https://placehold.co/600x400?text=Canal+Denuncia" alt="Canal Denuncia"> <br> Canal de Denúncias |
+| <img width="100%" src="https://placehold.co/600x400?text=Figma+Portal" alt="Figma Portal"> <br> Protótipo (Figma) | <img width="100%" src="https://placehold.co/600x400?text=BPMN+Fluxo" alt="BPMN Fluxo"> <br> BPMN de Onboarding |
+
+---
 
 ---
 

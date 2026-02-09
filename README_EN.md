@@ -1,4 +1,4 @@
-> 🇧🇷 [Portuguese version]({{ site.baseurl }}/)
+<!-- Language switcher handled by layout/include -->
 
 # 👋 Bruno Bogochvol — Product Owner & Software Engineer
 
@@ -30,15 +30,15 @@ I have multisector experience—**ESG, GovTech, Education, Healthcare, Fintech, 
 
 | Project | Sector | Role | Stack / Artifacts | Case |
 |----------|--------|--------|------------------|------|
-| **Nubo Educação** | EdTech · AI | AI Product Builder | Google ADK · Vibe Coding · Next.js | [View case]({{ site.baseurl }}/cases/nubo-educacao/README_EN.md) |
-| **Thinksus ESG/ODS** | Sustainability | PO & Architect | PRD · BDD · UX Dashboard | [View case]({{ site.baseurl }}/cases/thinksus-esg/README_EN.md) |
-| **SOL Online Procurement** | GovTech · Procurement | PO & Analyst | BPMN · PRD · Integrations | [View case]({{ site.baseurl }}/cases/sol-licitacoes/README_EN.md) |
-| **Veiculando** | Mobility · Infrastructure | PO & DevOps | Node/NestJS · GitHub Actions · Projects v2 | [View case]({{ site.baseurl }}/cases/veiculando/README_EN.md) |
-| **Singular Orçamentos** | SaaS · Finance | PO & Engineer | REST API · Angular · MongoDB | [View case]({{ site.baseurl }}/cases/singular-orcamentos/README_EN.md) |
-| **MCMV / IDB** | Housing · GovTech | PO & Architect | BPMN · BDD · Cloud Deploy | [View case]({{ site.baseurl }}/cases/mcmv-bid/README_EN.md) |
-| **Educafro Portal** | Education · Social | Product Owner | Figma · BPMN · Discovery | [View case]({{ site.baseurl }}/cases/educafro-portal/README_EN.md) |
-| **SENAI/MS Carbon** | ESG · Industry | PO & Architect | Python · Marketplace · Automation | [View case]({{ site.baseurl }}/cases/senai-carbono/README_EN.md) |
-| **Guerreiro System** | Health · ERP | PO & Architect | Microservices · Mobile App | [View case]({{ site.baseurl }}/cases/guerreiro-system/README_EN.md) |
+| **Nubo Educação** | EdTech · AI | AI Product Builder | Google ADK · Vibe Coding · Next.js | [View case]({{ site.baseurl }}/cases/nubo-educacao/README_EN.html) |
+| **Thinksus ESG/ODS** | Sustainability | PO & Architect | PRD · BDD · UX Dashboard | [View case]({{ site.baseurl }}/cases/thinksus-esg/README_EN.html) |
+| **SOL Online Procurement** | GovTech · Procurement | PO & Analyst | BPMN · PRD · Integrations | [View case]({{ site.baseurl }}/cases/sol-licitacoes/README_EN.html) |
+| **Veiculando** | Mobility · Infrastructure | PO & DevOps | Node/NestJS · GitHub Actions · Projects v2 | [View case]({{ site.baseurl }}/cases/veiculando/README_EN.html) |
+| **Singular Orçamentos** | SaaS · Finance | PO & Engineer | REST API · Angular · MongoDB | [View case]({{ site.baseurl }}/cases/singular-orcamentos/README_EN.html) |
+| **MCMV / IDB** | Housing · GovTech | PO & Architect | BPMN · BDD · Cloud Deploy | [View case]({{ site.baseurl }}/cases/mcmv-bid/README_EN.html) |
+| **Educafro Portal** | Education · Social | Product Owner | Figma · BPMN · Discovery | [View case]({{ site.baseurl }}/cases/educafro-portal/README_EN.html) |
+| **SENAI/MS Carbon** | ESG · Industry | PO & Architect | Python · Marketplace · Automation | [View case]({{ site.baseurl }}/cases/senai-carbono/README_EN.html) |
+| **Guerreiro System** | Health · ERP | PO & Architect | Microservices · Mobile App | [View case]({{ site.baseurl }}/cases/guerreiro-system/README_EN.html) |
 
 ---
 

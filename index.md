@@ -5,9 +5,7 @@ title: "Bruno Bogochvol — Portfolio"
 
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
-<p align="right">
-  <a href="{{ site.baseurl }}/en/" title="English version">🇺🇸 English</a>
-</p>
+{% include language_switcher.html current='pt' %}
 
 <section class="intro-section">
   <h1>Bruno Bogochvol</h1>
@@ -53,6 +51,9 @@ title: "Bruno Bogochvol — Portfolio"
   <div class="project-grid">
     {% for project in site.data.projects %}
     <div class="project-card">
+      {% if project.image %}
+      <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" class="card-image">
+      {% endif %}
       <div class="card-header">
         <h3 class="card-title">{{ project.title }}</h3>
         <span class="card-category">{{ project.category }}</span>

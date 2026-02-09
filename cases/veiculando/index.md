@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🚗 Veiculando — Plataforma de Gestão de Infraestrutura Viária"
+---
+
 # 🚗 Veiculando — Plataforma de Gestão de Infraestrutura Viária
 
 **Papel:** Product Owner · Arquiteto de Software · Gestor de Projeto  
@@ -10,6 +15,17 @@
 
 O **Veiculando** é um ecossistema de aplicações web e mobile voltado à **gestão inteligente de manutenção viária**, com foco em obras, pavimentação e operação urbana.  
 O projeto nasceu de uma parceria público-privada para **automatizar o ciclo de vistoria, execução e monitoramento de vias** em diversos municípios.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=App+Vistoria" alt="App Vistoria"> <br> App de Vistoria | <img width="100%" src="https://placehold.co/600x400?text=Dashboard+Obras" alt="Dashboard Obras"> <br> Monitoramento de Obras |
+| <img width="100%" src="https://placehold.co/600x400?text=GitHub+Projects" alt="GitHub Projects"> <br> Gestão no GitHub Projects | <img width="100%" src="https://placehold.co/600x400?text=BPMN+Viário" alt="BPMN Viário"> <br> Processo de Manutenção |
+
+---
 
 ---
 

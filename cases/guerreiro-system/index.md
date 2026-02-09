@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🩺 ERP Saúde (Guerreiro System)"
+---
+
 # 🩺 ERP Saúde (Guerreiro System)
 
 **Papel:** Product Owner & Arquiteto de Software  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Ecossistema completo de gestão de saúde, integrando aplicativo do paciente, sistema administrativo para clínicas e um marketplace de produtos e cursos.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=App+Paciente" alt="App Paciente"> <br> App do Paciente | <img width="100%" src="https://placehold.co/600x400?text=Dashboard+Clinica" alt="Dashboard Clinica"> <br> Gestão Clínica |
+| <img width="100%" src="https://placehold.co/600x400?text=Marketplace" alt="Marketplace"> <br> Marketplace | <img width="100%" src="https://placehold.co/600x400?text=Arquitetura+ERP" alt="Arquitetura ERP"> <br> Microsserviços |
+
+---
 
 ---
 

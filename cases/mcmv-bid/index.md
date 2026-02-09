@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🏠 MCMV / BID — Plataforma Habitacional"
+---
+
 # 🏠 MCMV / BID — Plataforma Habitacional
 
 **Papel:** Product Owner & Arquiteto de Software  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Atuação em todo o ciclo do projeto, desde a concepção da ideia junto ao Ministério até a entrega técnica. O objetivo foi digitalizar e dar transparência ao processo de seleção e gestão de beneficiários habitacionais.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Portal+Habitacional" alt="Portal Habitacional"> <br> Portal Habitacional | <img width="100%" src="https://placehold.co/600x400?text=Dashboard+MCMV" alt="Dashboard MCMV"> <br> Dashboard Administrativo |
+| <img width="100%" src="https://placehold.co/600x400?text=BPMN+MCMV" alt="BPMN MCMV"> <br> Fluxo BPMN | <img width="100%" src="https://placehold.co/600x400?text=Criterios+Aceite" alt="Criterios Aceite"> <br> Critérios BDD |
+
+---
 
 ---
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🚗 Veiculando — Road Infrastructure Management Platform"
+---
+
 # 🚗 Veiculando — Road Infrastructure Management Platform
 
 **Role:** Product Owner · Software Architect · Project Manager  
@@ -10,6 +15,17 @@
 
 Veiculando is a web and mobile ecosystem dedicated to **intelligent road maintenance management**, covering construction, paving, and urban operations.  
 The initiative emerged from a public-private partnership to **automate the inspection, execution, and monitoring cycle for roads** across multiple municipalities.
+
+## 📸 Gallery
+
+> *Add screenshots of main screens, dashboards, or diagrams here.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Inspection+App" alt="Inspection App"> <br> Inspection App | <img width="100%" src="https://placehold.co/600x400?text=Roadwork+Dash" alt="Roadwork Dash"> <br> Roadwork Monitoring |
+| <img width="100%" src="https://placehold.co/600x400?text=Project+Mgmt" alt="Project Mgmt"> <br> GitHub Projects v2 | <img width="100%" src="https://placehold.co/600x400?text=Maintenance+BPMN" alt="Maintenance BPMN"> <br> Maintenance Workflow |
+
+---
 
 ---
 

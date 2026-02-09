@@ -126,3 +126,35 @@
 @media (prefers-color-scheme: dark) {
   /* Add dark mode overrides here if the theme supports it natively */
 }
+
+/* Language Switcher Styles */
+.lang-switch-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+}
+
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #fff;
+  color: #159957; /* Cayman Primary */
+  padding: 8px 16px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  border: 1px solid #e1e4e8;
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: #f6f8fa;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-decoration: none;
+  color: #12824a;
+}
+

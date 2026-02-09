@@ -1,3 +1,8 @@
+---
+layout: default
+title: "💰 Singular Orçamentos"
+---
+
 # 💰 Singular Orçamentos
 
 **Role:** PO & Software Engineer  
@@ -8,6 +13,17 @@
 
 ## 🎯 Context
 System developed to simplify financial management, offering intuitive and automated budget control. The project utilized modern development techniques ("vibe coding") and Generative AI to accelerate the creation of interfaces and complex calculation logic.
+
+## 📸 Gallery
+
+> *Add screenshots of main screens, dashboards, or diagrams here.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Financial+Dashboard" alt="Financial Dashboard"> <br> Financial Dashboard | <img width="100%" src="https://placehold.co/600x400?text=Budget+Flow" alt="Budget Flow"> <br> Budget Control |
+| <img width="100%" src="https://placehold.co/600x400?text=Angular+UI" alt="Angular UI"> <br> Angular Interface | <img width="100%" src="https://placehold.co/600x400?text=Data+Architecture" alt="Data Architecture"> <br> Data Architecture |
+
+---
 
 ---
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🌱 Thinksus — Plataforma ESG e ODS"
+---
+
 # 🌱 Thinksus — Plataforma ESG e ODS
 
 **Papel:** Product Owner & Arquiteto de Software  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Plataforma que avalia o grau de adesão de empresas a práticas ESG e Objetivos de Desenvolvimento Sustentável (ODS), gerando insights automáticos para melhoria contínua.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Dashboard+ESG" alt="Dashboard ESG"> <br> Dashboard ESG | <img width="100%" src="https://placehold.co/600x400?text=Questionario+Dinamico" alt="Questionario Dinamico"> <br> Questionários |
+| <img width="100%" src="https://placehold.co/600x400?text=Scoring+ODS" alt="Scoring ODS"> <br> Scoring ODS | <img width="100%" src="https://placehold.co/600x400?text=Insights+IA" alt="Insights IA"> <br> Insights com IA |
+
+---
 
 ---
 

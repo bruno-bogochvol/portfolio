@@ -1,3 +1,8 @@
+---
+layout: default
+title: "💰 Singular Orçamentos"
+---
+
 # 💰 Singular Orçamentos
 
 **Papel:** PO & Engenheiro de Software  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Sistema desenvolvido para simplificar a gestão financeira, oferecendo controle orçamentário intuitivo e automatizado. O projeto utilizou técnicas modernas de desenvolvimento ("vibe coding") e IA Generativa para acelerar a criação de interfaces e lógicas de cálculo complexas.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Dashboard+Financeiro" alt="Dashboard Financeiro"> <br> Dashboard Financeiro | <img width="100%" src="https://placehold.co/600x400?text=Fluxo+Orcamentario" alt="Fluxo Orcamentario"> <br> Controle de Orçamentos |
+| <img width="100%" src="https://placehold.co/600x400?text=App+Angular" alt="App Angular"> <br> Interface Angular | <img width="100%" src="https://placehold.co/600x400?text=Mongo+Schema" alt="Mongo Schema"> <br> Arquitetura de Dados |
+
+---
 
 ---
 

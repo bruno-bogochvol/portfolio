@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🌱 Thinksus — ESG and SDG Platform"
+---
+
 # 🌱 Thinksus — ESG and SDG Platform
 
 **Role:** Product Owner & Software Architect  
@@ -8,6 +13,17 @@
 
 ## 🎯 Context
 Platform that assesses how well companies adhere to ESG practices and Sustainable Development Goals (SDGs), generating automated insights for continuous improvement.
+
+## 📸 Gallery
+
+> *Add screenshots of main screens, dashboards, or diagrams here.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=ESG+Dashboard" alt="ESG Dashboard"> <br> ESG Dashboard | <img width="100%" src="https://placehold.co/600x400?text=Dynamic+Survey" alt="Dynamic Survey"> <br> Dynamic Questionnaires |
+| <img width="100%" src="https://placehold.co/600x400?text=SDG+Scoring" alt="SDG Scoring"> <br> SDG Scoring | <img width="100%" src="https://placehold.co/600x400?text=AI+Insights" alt="AI Insights"> <br> AI-Generated Insights |
+
+---
 
 ---
 

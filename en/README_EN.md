@@ -1,4 +1,4 @@
-> 🇧🇷 [Portuguese version]({{ site.baseurl }}/)
+<!-- Language switcher handled by layout/include -->
 
 # 👋 Bruno Bogochvol — Product Owner & Software Engineer
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🚀 Nubo Educação — AI Product Builder"
+---
+
 # 🚀 Nubo Educação — AI Product Builder
 
 **Papel:** AI Product Builder / Engenheiro de Software  
@@ -9,6 +14,17 @@
 ## 🎯 Contexto
 Plataforma educacional completa composta por três pilares principais: **nubo-hub-app** (aplicação para alunos), **nubo-hub-admin** (painel de gestão) e **cloudinha-agent** (agente de IA para suporte e orientação).  
 O projeto foi construído utilizando desenvolvimento assistido por IA ("vibe coding") para acelerar a entrega de uma arquitetura complexa e escalável.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="../../assets/projects/nubo-educacao/Captura de tela 2026-02-09 124727.png" alt="App Aluno"> <br> App do Aluno | <img width="100%" src="../../assets/projects/nubo-educacao/Captura de tela 2026-02-09 124736.png" alt="Admin Panel"> <br> Painel Administrativo |
+| <img width="100%" src="../../assets/projects/nubo-educacao/Captura de tela 2026-02-09 124748.png" alt="Agente IA"> <br> Cloudinha Agent | <img width="100%" src="https://placehold.co/600x400?text=Arquitetura" alt="Arquitetura"> <br> Diagrama de Arquitetura |
+
+---
 
 ---
 

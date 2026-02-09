@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🩺 Health ERP (Guerreiro System)"
+---
+
 # 🩺 Health ERP (Guerreiro System)
 
 **Role:** Product Owner & Software Architect  
@@ -8,6 +13,17 @@
 
 ## 🎯 Context
 Complete health management ecosystem, integrating a patient app, administrative system for clinics, and a marketplace for products and courses.
+
+## 📸 Gallery
+
+> *Add screenshots of main screens, dashboards, or diagrams here.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Patient+App" alt="Patient App"> <br> Patient App | <img width="100%" src="https://placehold.co/600x400?text=Clinic+Dashboard" alt="Clinic Dashboard"> <br> Clinic Management |
+| <img width="100%" src="https://placehold.co/600x400?text=Marketplace+Health" alt="Marketplace Health"> <br> Marketplace | <img width="100%" src="https://placehold.co/600x400?text=ERP+Architecture" alt="ERP Architecture"> <br> Microservices |
+
+---
 
 ---
 

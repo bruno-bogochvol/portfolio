@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🌎 SENAI/MS — Plataforma de Carbono"
+---
+
 # 🌎 SENAI/MS — Plataforma de Carbono
 
 **Papel:** Product Owner & Arquiteto de Software  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Desenvolvimento de uma plataforma robusta para cálculo de emissões baseado no Protocolo GHG, integrando um marketplace para negociação de créditos de carbono e auditoria de sustentabilidade industrial.
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Inventario+Carbono" alt="Inventario Carbono"> <br> Inventário de Emissões | <img width="100%" src="https://placehold.co/600x400?text=Calculadora+GHG" alt="Calculadora GHG"> <br> Calculadora Automatizada |
+| <img width="100%" src="https://placehold.co/600x400?text=Marketplace+Carbono" alt="Marketplace Carbono"> <br> Marketplace de Créditos | <img width="100%" src="https://placehold.co/600x400?text=Painel+Sustentabilidade" alt="Painel Sustentabilidade"> <br> Dashboard de Sustentabilidade |
+
+---
 
 ---
 

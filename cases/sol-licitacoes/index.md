@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🏛️ SOL — Licitações Online"
+---
+
 # 🏛️ SOL — Licitações Online
 
 **Papel:** Product Owner & Analista Funcional  
@@ -8,6 +13,17 @@
 
 ## 🎯 Contexto
 Sistema desenvolvido para modernizar e digitalizar os processos de compras públicas, conectando pequenas empresas a órgãos estatais de forma transparente e eficiente. O projeto atende requisitos complexos de auditoria e governança governamental (BID).
+
+## 📸 Galeria
+
+> *Adicione aqui prints das telas principais, dashboards ou diagramas.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Portal+SOL" alt="Portal SOL"> <br> Portal SOL | <img width="100%" src="https://placehold.co/600x400?text=Edital+Digital" alt="Edital Digital"> <br> Fluxo de Edital |
+| <img width="100%" src="https://placehold.co/600x400?text=BPMN+SOL" alt="BPMN SOL"> <br> BPMN de Compras | <img width="100%" src="https://placehold.co/600x400?text=Integração+Sistemas" alt="Integração Sistemas"> <br> Diagrama de Integração |
+
+---
 
 ---
 

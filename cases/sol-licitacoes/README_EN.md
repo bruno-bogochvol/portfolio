@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🏛️ SOL — Online Procurement"
+---
+
 # 🏛️ SOL — Online Procurement
 
 **Role:** Product Owner & Functional Analyst  

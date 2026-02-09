@@ -1,3 +1,8 @@
+---
+layout: default
+title: "🎓 Educafro — Scholarship Portal"
+---
+
 # 🎓 Educafro — Scholarship Portal
 
 **Role:** Product Owner  
@@ -8,6 +13,17 @@
 
 ## 🎯 Context
 Platform that gathers educational institutions on an interactive scholarship map and acts as a secure channel for reporting discrimination, promoting inclusion and support.
+
+## 📸 Gallery
+
+> *Add screenshots of main screens, dashboards, or diagrams here.*
+
+| | |
+|:-------------------------:|:-------------------------:|
+| <img width="100%" src="https://placehold.co/600x400?text=Scholarship+Map" alt="Scholarship Map"> <br> Scholarship Map | <img width="100%" src="https://placehold.co/600x400?text=Reporting+Channel" alt="Reporting Channel"> <br> Reporting Channel |
+| <img width="100%" src="https://placehold.co/600x400?text=Figma+Portal" alt="Figma Portal"> <br> Prototype (Figma) | <img width="100%" src="https://placehold.co/600x400?text=BPMN+Flow" alt="BPMN Flow"> <br> Onboarding BPMN |
+
+---
 
 ---
 
