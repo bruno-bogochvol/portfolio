@@ -7,7 +7,7 @@ Atuo na ponte entre **discovery, UX e engenharia**, conectando visão de produto
 
 📍 São Paulo, BR  
 📧 [brunobogochvol@gmail.com](mailto:brunobogochvol@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/brunobogochvol) · [CV em PDF](link_para_cv.pdf)
+🔗 [LinkedIn](https://linkedin.com/in/brunobogochvol) · [CV em PDF](assets/pdf/cv-pt.pdf)
 
 ---
 
@@ -30,9 +30,15 @@ Tenho experiência multissetorial — **ESG, GovTech, Educação, Saúde, Fintec
 
 | Projeto | Setor | Papel | Stack / Artefatos | Case |
 |----------|--------|--------|------------------|------|
+| **Nubo Educação** | EdTech · IA | AI Product Builder | Google ADK · Vibe Coding · Next.js | [Ver case]({{ site.baseurl }}/cases/nubo-educacao/README.md) |
 | **Thinksus ESG/ODS** | Sustentabilidade | PO & Arquiteto | PRD · BDD · Dashboard UX | [Ver case]({{ site.baseurl }}/cases/thinksus-esg/README.md) |
+| **SOL Licitações** | GovTech · Compras | PO & Analista | BPMN · PRD · Integrações | [Ver case]({{ site.baseurl }}/cases/sol-licitacoes/README.md) |
 | **Veiculando** | Mobilidade · Infraestrutura | PO & DevOps | Node/NestJS · GitHub Actions · Projects v2 | [Ver case]({{ site.baseurl }}/cases/veiculando/README.md) |
 | **Singular Orçamentos** | SaaS · Finanças | PO & Engenheiro | REST API · Angular · MongoDB | [Ver case]({{ site.baseurl }}/cases/singular-orcamentos/README.md) |
+| **MCMV / BID** | Habitação · GovTech | PO & Arquiteto | BPMN · BDD · Cloud Deploy | [Ver case]({{ site.baseurl }}/cases/mcmv-bid/README.md) |
+| **Educafro Portal** | Educação · Social | Product Owner | Figma · BPMN · Discovery | [Ver case]({{ site.baseurl }}/cases/educafro-portal/README.md) |
+| **SENAI/MS Carbono** | ESG · Indústria | PO & Arquiteto | Python · Marketplace · Automação | [Ver case]({{ site.baseurl }}/cases/senai-carbono/README.md) |
+| **Guerreiro System** | Saúde · ERP | PO & Arquiteto | Microsserviços · App Mobile | [Ver case]({{ site.baseurl }}/cases/guerreiro-system/README.md) |
 
 ---
 

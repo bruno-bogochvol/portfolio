@@ -1,0 +1,73 @@
+- title: "Nubo Educação"
+  category: "EdTech · IA"
+  role: "AI Product Builder"
+  stack: "Google ADK · Vibe Coding · Next.js"
+  description: "Plataforma educacional com agente de IA (Cloudinha) e arquitetura multi-tenant."
+  links:
+    case: "/cases/nubo-educacao/README.md"
+    # production: "https://..."
+    # figma: "https://..."
+
+- title: "Thinksus ESG/ODS"
+  category: "Sustentabilidade"
+  role: "PO & Arquiteto"
+  stack: "PRD · BDD · Dashboard UX"
+  description: "Plataforma de avaliação ESG e ODS com insights automáticos."
+  links:
+    case: "/cases/thinksus-esg/README.md"
+
+- title: "SOL Licitações"
+  category: "GovTech · Compras"
+  role: "PO & Analista"
+  stack: "BPMN · PRD · Integrações"
+  description: "Sistema de gestão de licitações e compras governamentais."
+  links:
+    case: "/cases/sol-licitacoes/README.md"
+
+- title: "Veiculando"
+  category: "Mobilidade · Infraestrutura"
+  role: "PO & DevOps"
+  stack: "Node/NestJS · GitHub Actions · Projects v2"
+  description: "Gestão inteligente de manutenção viária e infraestrutura urbana."
+  links:
+    case: "/cases/veiculando/README.md"
+
+- title: "Singular Orçamentos"
+  category: "SaaS · Finanças"
+  role: "PO & Engenheiro"
+  stack: "REST API · Angular · MongoDB"
+  description: "Sistema SaaS para gestão de orçamentos e finanças."
+  links:
+    case: "/cases/singular-orcamentos/README.md"
+
+- title: "MCMV / BID"
+  category: "Habitação · GovTech"
+  role: "PO & Arquiteto"
+  stack: "BPMN · BDD · Cloud Deploy"
+  description: "Plataforma habitacional com financiamento BID."
+  links:
+    case: "/cases/mcmv-bid/README.md"
+
+- title: "Educafro Portal"
+  category: "Educação · Social"
+  role: "Product Owner"
+  stack: "Figma · BPMN · Discovery"
+  description: "Portal de bolsas e onboarding digital com foco em inclusão social."
+  links:
+    case: "/cases/educafro-portal/README.md"
+
+- title: "SENAI/MS Carbono"
+  category: "ESG · Indústria"
+  role: "PO & Arquiteto"
+  stack: "Python · Marketplace · Automação"
+  description: "Inventário de carbono e marketplace de créditos para a indústria."
+  links:
+    case: "/cases/senai-carbono/README.md"
+
+- title: "Guerreiro System"
+  category: "Saúde · ERP"
+  role: "PO & Arquiteto"
+  stack: "Microsserviços · App Mobile"
+  description: "ERP para gestão de saúde com arquitetura de microsserviços."
+  links:
+    case: "/cases/guerreiro-system/README.md"
