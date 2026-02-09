@@ -8,8 +8,8 @@
   description: "Plataforma educacional com agente de IA (Cloudinha) e arquitetura multi-tenant."
   description_en: "Educational platform with AI agent (Cloudinha) and multi-tenant architecture."
   links:
-    case: "/cases/nubo-educacao/README.md"
-    case_en: "/cases/nubo-educacao/README_EN.md"
+    case: "/cases/nubo-educacao/"
+    case_en: "/cases/nubo-educacao/README_EN.html"
     # production: "https://..."
     # figma: "https://..."
 
@@ -23,8 +23,8 @@
   description: "Plataforma de avaliação ESG e ODS com insights automáticos."
   description_en: "ESG and SDG assessment platform with automatic insights."
   links:
-    case: "/cases/thinksus-esg/README.md"
-    case_en: "/cases/thinksus-esg/README_EN.md"
+    case: "/cases/thinksus-esg/"
+    case_en: "/cases/thinksus-esg/README_EN.html"
 
 - title: "SOL Licitações"
   category: "GovTech · Compras"
@@ -36,8 +36,8 @@
   description: "Sistema de gestão de licitações e compras governamentais."
   description_en: "Government procurement and bidding management system."
   links:
-    case: "/cases/sol-licitacoes/README.md"
-    case_en: "/cases/sol-licitacoes/README_EN.md"
+    case: "/cases/sol-licitacoes/"
+    case_en: "/cases/sol-licitacoes/README_EN.html"
 
 - title: "Veiculando"
   category: "Mobilidade · Infraestrutura"
@@ -49,8 +49,8 @@
   description: "Gestão inteligente de manutenção viária e infraestrutura urbana."
   description_en: "Intelligent management of road maintenance and urban infrastructure."
   links:
-    case: "/cases/veiculando/README.md"
-    case_en: "/cases/veiculando/README_EN.md"
+    case: "/cases/veiculando/"
+    case_en: "/cases/veiculando/README_EN.html"
 
 - title: "Singular Orçamentos"
   category: "SaaS · Finanças"
@@ -62,8 +62,8 @@
   description: "Sistema SaaS para gestão de orçamentos e finanças."
   description_en: "SaaS system for budget and finance management."
   links:
-    case: "/cases/singular-orcamentos/README.md"
-    case_en: "/cases/singular-orcamentos/README_EN.md"
+    case: "/cases/singular-orcamentos/"
+    case_en: "/cases/singular-orcamentos/README_EN.html"
 
 - title: "MCMV / BID"
   category: "Habitação · GovTech"
@@ -75,8 +75,8 @@
   description: "Plataforma habitacional com financiamento BID."
   description_en: "Housing platform with IDB financing."
   links:
-    case: "/cases/mcmv-bid/README.md"
-    case_en: "/cases/mcmv-bid/README_EN.md"
+    case: "/cases/mcmv-bid/"
+    case_en: "/cases/mcmv-bid/README_EN.html"
 
 - title: "Educafro Portal"
   category: "Educação · Social"
@@ -88,8 +88,8 @@
   description: "Portal de bolsas e onboarding digital com foco em inclusão social."
   description_en: "Scholarship portal and digital onboarding focused on social inclusion."
   links:
-    case: "/cases/educafro-portal/README.md"
-    case_en: "/cases/educafro-portal/README_EN.md"
+    case: "/cases/educafro-portal/"
+    case_en: "/cases/educafro-portal/README_EN.html"
 
 - title: "SENAI/MS Carbono"
   category: "ESG · Indústria"
@@ -101,8 +101,8 @@
   description: "Inventário de carbono e marketplace de créditos para a indústria."
   description_en: "Carbon inventory and credit marketplace for the industry."
   links:
-    case: "/cases/senai-carbono/README.md"
-    case_en: "/cases/senai-carbono/README_EN.md"
+    case: "/cases/senai-carbono/"
+    case_en: "/cases/senai-carbono/README_EN.html"
 
 - title: "Guerreiro System"
   category: "Saúde · ERP"
@@ -114,5 +114,5 @@
   description: "ERP para gestão de saúde com arquitetura de microsserviços."
   description_en: "Healthcare ERP with microservices architecture."
   links:
-    case: "/cases/guerreiro-system/README.md"
-    case_en: "/cases/guerreiro-system/README_EN.md"
+    case: "/cases/guerreiro-system/"
+    case_en: "/cases/guerreiro-system/README_EN.html"
