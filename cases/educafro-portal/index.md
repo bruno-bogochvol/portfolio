@@ -48,4 +48,4 @@ Plataforma que reúne instituições de ensino em um mapa interativo de bolsas d
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)

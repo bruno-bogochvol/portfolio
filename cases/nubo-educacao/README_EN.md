@@ -51,4 +51,4 @@ The project was built using AI-assisted development ("vibe coding") to accelerat
 
 ---
 
-📎 [Back to portfolio](../../README_EN.md)
+📎 [Back to portfolio](../../README_EN.html)

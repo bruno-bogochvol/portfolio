@@ -37,4 +37,4 @@ System developed to modernize and digitize public procurement processes, connect
 
 ---
 
-📎 [Back to portfolio](../../README_EN.md)
+📎 [Back to portfolio](../../README_EN.html)

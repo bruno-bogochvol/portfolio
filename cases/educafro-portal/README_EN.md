@@ -48,4 +48,4 @@ Platform that gathers educational institutions on an interactive scholarship map
 
 ---
 
-📎 [Back to portfolio](../../README_EN.md)
+📎 [Back to portfolio](../../README_EN.html)

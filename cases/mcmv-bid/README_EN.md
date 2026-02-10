@@ -48,4 +48,4 @@ Involvement in the entire project lifecycle, from idea conception with the Minis
 
 ---
 
-📎 [Back to portfolio](../../README_EN.md)
+📎 [Back to portfolio](../../README_EN.html)

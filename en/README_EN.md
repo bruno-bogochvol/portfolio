@@ -30,9 +30,9 @@ I have multisector experience—**ESG, GovTech, Education, Healthcare, Fintech, 
 
 | Project | Sector | Role | Stack / Artifacts | Case |
 |----------|--------|--------|------------------|------|
-| **Thinksus ESG/ODS** | Sustainability | PO & Architect | PRD · BDD · UX Dashboard | [View case]({{ site.baseurl }}/cases/thinksus-esg/README_EN.md) |
-| **Veiculando** | Mobility · Infrastructure | PO & DevOps | Node/NestJS · GitHub Actions · Projects v2 | [View case]({{ site.baseurl }}/cases/veiculando/README_EN.md) |
-| **Singular Orçamentos** | SaaS · Finance | PO & Engineer | REST API · Angular · MongoDB | [View case]({{ site.baseurl }}/cases/singular-orcamentos/README.md) |
+| **Thinksus ESG/ODS** | Sustainability | PO & Architect | PRD · BDD · UX Dashboard | [View case]({{ site.baseurl }}/cases/thinksus-esg/README_EN.html) |
+| **Veiculando** | Mobility · Infrastructure | PO & DevOps | Node/NestJS · GitHub Actions · Projects v2 | [View case]({{ site.baseurl }}/cases/veiculando/README_EN.html) |
+| **Singular Orçamentos** | SaaS · Finance | PO & Engineer | REST API · Angular · MongoDB | [View case]({{ site.baseurl }}/cases/singular-orcamentos/README_EN.html) |
 
 ---
 

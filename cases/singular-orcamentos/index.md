@@ -48,4 +48,4 @@ Sistema desenvolvido para simplificar a gestão financeira, oferecendo controle 
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)

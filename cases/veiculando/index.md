@@ -91,4 +91,4 @@ O projeto nasceu de uma parceria público-privada para **automatizar o ciclo de 
 
 ---
 
-📎 [Voltar ao Portfólio Principal](../../README.md)
+📎 [Voltar ao Portfólio Principal](../../)

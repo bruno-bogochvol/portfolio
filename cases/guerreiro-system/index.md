@@ -48,4 +48,4 @@ Ecossistema completo de gestão de saúde, integrando aplicativo do paciente, si
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)

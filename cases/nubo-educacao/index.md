@@ -51,4 +51,4 @@ O projeto foi construído utilizando desenvolvimento assistido por IA ("vibe cod
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)

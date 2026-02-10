@@ -48,4 +48,4 @@ Sistema desenvolvido para modernizar e digitalizar os processos de compras públ
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)

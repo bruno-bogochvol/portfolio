@@ -48,4 +48,4 @@ Complete health management ecosystem, integrating a patient app, administrative 
 
 ---
 
-📎 [Back to portfolio](../../README_EN.md)
+📎 [Back to portfolio](../../README_EN.html)

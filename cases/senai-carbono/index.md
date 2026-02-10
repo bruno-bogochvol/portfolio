@@ -48,4 +48,4 @@ Desenvolvimento de uma plataforma robusta para cálculo de emissões baseado no 
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)

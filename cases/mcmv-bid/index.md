@@ -48,4 +48,4 @@ Atuação em todo o ciclo do projeto, desde a concepção da ideia junto ao Mini
 
 ---
 
-📎 [Voltar para o portfólio](../../README.md)
+📎 [Voltar para o portfólio](../../)
